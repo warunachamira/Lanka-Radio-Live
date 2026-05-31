@@ -1,0 +1,6 @@
+{
+  "name": "Lanka Radio Live",
+  "description": "Modern Sri Lankan Radio Android App with background streaming and favorites.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
